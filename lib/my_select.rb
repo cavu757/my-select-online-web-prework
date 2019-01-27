@@ -8,7 +8,5 @@ def my_select(collection)
     end
     i = i + 1
   end
-  puts collection
-  puts new_array
   new_array
 end
